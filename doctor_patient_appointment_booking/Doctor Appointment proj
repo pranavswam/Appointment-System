@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <h1>.*CSS Multiple Columns*. </h1>
+ <style>
+   .newspaper{
+    column-count:4;
+    text-decoration: underline;
+    background-color: thistle;
+    border-radius: 5px;
+    margin:8px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    box-shadow: 2px 10px 10px;
+    column-gap: 20px;
+    column-rule-style:dotted;
+    column-rule-width: 5px;
+    column-rule-color:green;
+
+   }
+        
+ </style>
+
+
+  
+ </head>
+ <body>
+<div class="newspaper">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, tenetur optio nulla dignissimos error itaque numquam? Sunt necessitatibus nulla asperiores saepe? Repellendus, at voluptatum, obcaecati, aliquam distinctio repudiandae doloribus in rem eius totam architecto pariatur illum iste dignissimos nobis ratione. Explicabo, eveniet? Assumenda sunt accusantium consequuntur itaque, neque aliquam doloremque natus necessitatibus eius laudantium nesciunt? Ea doloremque unde molestias. Voluptatem perferendis libero consequatur ut hic iure adipisci quasi architecto voluptas ullam blanditiis numquam dignissimos similique facere deserunt unde odio accusantium, commodi tempore fuga sunt amet nam asperiores doloremque. Aspernatur aut voluptatum sit est, autem vitae rem laboriosam, itaque nam quidem blanditiis nemo at quod sint labore alias distinctio officia pariatur? Expedita quas voluptatem, tempora nam ab quam hic, deserunt perspiciatis debitis vero consequatur autem, eaque nulla id dicta molestias dignissimos doloribus voluptate inventore? Aperiam, aspernatur quasi! Suscipit inventore dolores perferendis repudiandae, libero accusamus sed magni officia error itaque ut incidunt quia, eos animi in dicta ex iste perspiciatis quis voluptatibus. Veritatis blanditiis beatae dolor at nulla nobis eaque tempora, alias, molestias commodi eligendi, sed officiis fugit soluta. Consequatur id dolores reiciendis esse iure praesentium explicabo dolorum distinctio totam rerum eveniet nobis repellat natus ipsa, nesciunt numquam? Consequuntur sequi eos possimus.
+</div>
+
+    
+      
+</body>
+</html>
